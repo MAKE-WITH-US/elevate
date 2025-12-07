@@ -1,0 +1,413 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/hilios/jQuery.countdown@223789964fd1854e04a60d6eba3fd22d20b1f34f/src/countdown.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\gh\hilios\jQuery.countdown@223789964fd1854e04a60d6eba3fd22d20b1f34f\src\countdown.js
+Content Type: application/javascript
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4aa2328b86e546619709a_e-UkraineHead-Regular.otf
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4aa2328b86e546619709a_e-UkraineHead-Regular.otf
+Content Type: application/x-font-otf
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4aa239a9fadc9a0a6271a_e-UkraineHead-UltraLight.otf
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4aa239a9fadc9a0a6271a_e-UkraineHead-UltraLight.otf
+Content Type: application/x-font-otf
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4aa24717ec4735b4b8da5_e-UkraineHead-Thin.otf
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4aa24717ec4735b4b8da5_e-UkraineHead-Thin.otf
+Content Type: application/x-font-otf
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4aa24a81a725dad6a6727_e-UkraineHead-Bold.otf
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4aa24a81a725dad6a6727_e-UkraineHead-Bold.otf
+Content Type: application/x-font-otf
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4aa24cad92379075827bc_e-UkraineHead-Light.otf
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4aa24cad92379075827bc_e-UkraineHead-Light.otf
+Content Type: application/x-font-otf
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4aa24cad92379075827ca_e-UkraineHead-Medium.otf
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4aa24cad92379075827ca_e-UkraineHead-Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4b1a364b94a8f73073b05_Без названия 5 1.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4b1a364b94a8f73073b05_Без названия 5 1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4b8f049da5f50ced0435b_Group 4517.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4b8f049da5f50ced0435b_Group 4517.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4bce2621346fc39688f68_Group 4518.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4bce2621346fc39688f68_Group 4518.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4bd3730e87744da0052e2_Frame 51.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4bd3730e87744da0052e2_Frame 51.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4bd378b034e4bc34771e0_Ellipse 23.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4bd378b034e4bc34771e0_Ellipse 23.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4bf362bd6272680cfff61_Frame 51.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4bf362bd6272680cfff61_Frame 51.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4c0c617abf9c0a4c8433f_image 58-2.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4c0c617abf9c0a4c8433f_image 58-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4c0c68e004eadaa57794f_image 58-3.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4c0c68e004eadaa57794f_image 58-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4c0c6cf7b271f816c2685_image 58.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4c0c6cf7b271f816c2685_image 58.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4c0c6f0f6068d5cc360c1_image 58-1.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4c0c6f0f6068d5cc360c1_image 58-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4fb88e3227eaa29560629_IMG_5079.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4fb88e3227eaa29560629_IMG_5079.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d4fc597220fb7d6704579b_Union.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d4fc597220fb7d6704579b_Union.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5026c09ecac1159f298a3_Frame 1000002444.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5026c09ecac1159f298a3_Frame 1000002444.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5026c25923281da240568_Frame 1000002445.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5026c25923281da240568_Frame 1000002445.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5026ea5b1b2a0e78c64f4_Frame 1000002734.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5026ea5b1b2a0e78c64f4_Frame 1000002734.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5073f57619621cbaa87d4_Union.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5073f57619621cbaa87d4_Union.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d507c30128c96a2be61654_Frame 1000002450-1.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d507c30128c96a2be61654_Frame 1000002450-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d507d660dd45f9a9cf8b8c_Frame 1000002450.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d507d660dd45f9a9cf8b8c_Frame 1000002450.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5090c6f443ed8ba07f932_Rectangle 4860.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5090c6f443ed8ba07f932_Rectangle 4860.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5097b039ee2bf6519f44a_Frame 1000002456.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5097b039ee2bf6519f44a_Frame 1000002456.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d50c13d4edf30be707c99e_“.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d50c13d4edf30be707c99e_“.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d50cf685eeff55a8bb3e96_Ellipse 49.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d50cf685eeff55a8bb3e96_Ellipse 49.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d51183279d44ca8c21ea6c_Ellipse 49.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d51183279d44ca8c21ea6c_Ellipse 49.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5184b7facba460271168e_Frame 1000002719.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5184b7facba460271168e_Frame 1000002719.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d51b0c21842dc82b01ee5c_Frame 1000002720.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d51b0c21842dc82b01ee5c_Frame 1000002720.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5da06963808027740d740_Ellipse 49.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5da06963808027740d740_Ellipse 49.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5db174b012b4dbf3d659e_Union-1.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5db174b012b4dbf3d659e_Union-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5db17ee4a3f75a98c7b29_Union.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5db17ee4a3f75a98c7b29_Union.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5e5a943380867a90b6a3f_Vector (Stroke).svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5e5a943380867a90b6a3f_Vector (Stroke).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5e9d06d92044b37c52eef_Frame 52.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5e9d06d92044b37c52eef_Frame 52.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5e9d0ce946b26e556a78a_Frame 51.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5e9d0ce946b26e556a78a_Frame 51.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5edb2219ec8a88813be1f_payments-logos.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5edb2219ec8a88813be1f_payments-logos.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5edf62ce998d6e4534702_Group 293.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5edf62ce998d6e4534702_Group 293.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5f44c48157da3419186aa_Без названия 5 1.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5f44c48157da3419186aa_Без названия 5 1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d5f6a6e227ac96ee147a87_Frame 51.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d5f6a6e227ac96ee147a87_Frame 51.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d706ead4410ac20c70e5fe_Vector.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d706ead4410ac20c70e5fe_Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d7071e9d049830e74271ff_Group 4519.svg
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d7071e9d049830e74271ff_Group 4519.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d78da07ad078f206e06d9c_32 (4).png
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d78da07ad078f206e06d9c_32 (4).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65d78da20312f3878cedfc26_256 (4).png
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65d78da20312f3878cedfc26_256 (4).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214e2e53dda6d81874d0_5.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214e2e53dda6d81874d0_5.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214e6e409edbe8bfac71_4.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214e6e409edbe8bfac71_4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214e827f6d8ba0b8c2a8_2 (3).webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214e827f6d8ba0b8c2a8_2 (3).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214eb95eac49965ca194_8.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214eb95eac49965ca194_8.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214ecfa7358a6e8ea4d1_7.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214ecfa7358a6e8ea4d1_7.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214ed63b8a894bf6c0bb_3.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214ed63b8a894bf6c0bb_3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214eed54fcd51e4a66a7_6.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214eed54fcd51e4a66a7_6.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/65ea214eeed13ae32dabbc28_1 (3).webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\65ea214eeed13ae32dabbc28_1 (3).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/667afa5121e608d8ad2ba6af_Nekst-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\667afa5121e608d8ad2ba6af_Nekst-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/667afa5130fc7fbfc61a9b98_Nekst-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\667afa5130fc7fbfc61a9b98_Nekst-SemiBold.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/667afa515853675161ef7f71_Nekst-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\667afa515853675161ef7f71_Nekst-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/667afa51687a214b7f93be08_Nekst-Light.woff2
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\667afa51687a214b7f93be08_Nekst-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/667afa517fe6ccc23184ab23_Nekst-Black.woff2
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\667afa517fe6ccc23184ab23_Nekst-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/667afa51857a5fc5d1e82cec_Nekst-Thin.woff2
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\667afa51857a5fc5d1e82cec_Nekst-Thin.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/667afa51fb50268be4a00747_Nekst-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\667afa51fb50268be4a00747_Nekst-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66a933ff0c54a31694177c96_image 25.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66a933ff0c54a31694177c96_image 25.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66a933ff74b24df2f96fa8b3_image 23.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66a933ff74b24df2f96fa8b3_image 23.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66a933ff89e41ffd8e3ab268_image 27.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66a933ff89e41ffd8e3ab268_image 27.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66a933ffb78e7525914965cd_image 22.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66a933ffb78e7525914965cd_image 22.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66a933ffd299107a9574bd56_image 26.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66a933ffd299107a9574bd56_image 26.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66a933fff6b651697788fc6b_image 24.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66a933fff6b651697788fc6b_image 24.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66a933fffb700884776be7a0_image 18 (1).avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66a933fffb700884776be7a0_image 18 (1).avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66aa065315386c036396e1fe_IMG_4089.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66aa065315386c036396e1fe_IMG_4089.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66aa065339727c40cad5dd5c_IMG_4090.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66aa065339727c40cad5dd5c_IMG_4090.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66aa065356d3b112ae89bda5_IMG_4086.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66aa065356d3b112ae89bda5_IMG_4086.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66aa0653654d1a9e0367e043_IMG_4087.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66aa0653654d1a9e0367e043_IMG_4087.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66aa06536f96940fe3b84206_IMG_4088.avif
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66aa06536f96940fe3b84206_IMG_4088.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/66c6195bd94e2b69c6936cc4_Group 1000002364.webp
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\66c6195bd94e2b69c6936cc4_Group 1000002364.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0f3e164165fc514a53_HelveticaNeueCyr-Bold.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0f3e164165fc514a53_HelveticaNeueCyr-Bold.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0f512f6099633eb8bc_HelveticaNeueCyr-BlackItalic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0f512f6099633eb8bc_HelveticaNeueCyr-BlackItalic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0f5c11f139186274ed_HelveticaNeueCyr-Heavy.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0f5c11f139186274ed_HelveticaNeueCyr-Heavy.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0f67f337fb7b577ea0_HelveticaNeueCyr-Black.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0f67f337fb7b577ea0_HelveticaNeueCyr-Black.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0f73a92fa5b479304c_HelveticaNeueCyr-UltraLight.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0f73a92fa5b479304c_HelveticaNeueCyr-UltraLight.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0f775d12c28e96c8fc_HelveticaNeueCyr-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0f775d12c28e96c8fc_HelveticaNeueCyr-BoldItalic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0f7889a2e3d6b888fa_HelveticaNeueCyr-Medium.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0f7889a2e3d6b888fa_HelveticaNeueCyr-Medium.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0fa4eb5b2aed323f38_HelveticaNeueCyr-Italic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0fa4eb5b2aed323f38_HelveticaNeueCyr-Italic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0fabe4ade8c2e133b7_HelveticaNeueCyr-UltraLightItalic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0fabe4ade8c2e133b7_HelveticaNeueCyr-UltraLightItalic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0fbb067d45c279d95c_HelveticaNeueCyr-ThinItalic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0fbb067d45c279d95c_HelveticaNeueCyr-ThinItalic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0fd1769532b79036db_HelveticaNeueCyr-Light.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0fd1769532b79036db_HelveticaNeueCyr-Light.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0fdcc461672d90294c_HelveticaNeueCyr-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0fdcc461672d90294c_HelveticaNeueCyr-MediumItalic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd0fe930d18d87b3f551_HelveticaNeueCyr-Thin.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd0fe930d18d87b3f551_HelveticaNeueCyr-Thin.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd1047b883828dca086e_HelveticaNeueCyr-HeavyItalic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd1047b883828dca086e_HelveticaNeueCyr-HeavyItalic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd1047b883828dca0872_HelveticaNeueCyr-Roman.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd1047b883828dca0872_HelveticaNeueCyr-Roman.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/670acd10a89104f9c35b41a6_HelveticaNeueCyr-LightItalic.woff
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\670acd10a89104f9c35b41a6_HelveticaNeueCyr-LightItalic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/css/stanislavs-marvelous-site-69e2a2.webflow.shared.4a1159afd.css
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\css\stanislavs-marvelous-site-69e2a2.webflow.shared.4a1159afd.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/js/webflow.8ddd3bdd.e9b7648270fd771a.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\js\webflow.8ddd3bdd.e9b7648270fd771a.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/js/webflow.c649ee80.ce93dee6c3b04b05.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\js\webflow.c649ee80.ce93dee6c3b04b05.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/js/webflow.schunk.2d194e46dff1f367.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\js\webflow.schunk.2d194e46dff1f367.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/js/webflow.schunk.36b8fb49256177c8.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\js\webflow.schunk.36b8fb49256177c8.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/js/webflow.schunk.50d850aa4962b686.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\js\webflow.schunk.50d850aa4962b686.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/65d486ef5131156ed1634bdc/js/webflow.schunk.61b534daaaeddbc7.js
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\65d486ef5131156ed1634bdc\js\webflow.schunk.61b534daaaeddbc7.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65d486ef5131156ed1634bdc
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=931897385230338&ev=PageView
+&noscript=1
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\tr
+Content Type: text/plain
+
+Uri: https://www.stanislavhuliaiev.com/
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\index.htm
+Content Type: text/html
+
+Uri: https://www.stanislavhuliaiev.com/oferta
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\oferta.html
+Content Type: text/html
+
+Uri: https://www.stanislavhuliaiev.com/policy
+File Name: C:\Downloaded Web Sites\www.stanislavhuliaiev.com\policy.html
+Content Type: text/html
+
